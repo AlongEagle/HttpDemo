@@ -26,6 +26,7 @@ public class HttpThread extends Thread {
 
     @Override
     public void run() {
+        //this is a demo中文
 
         try {
             URL httpURL=new URL(url);
