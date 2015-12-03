@@ -28,6 +28,7 @@ public class HttpThread extends Thread {
     public void run() {
         //this is a demo中文
         //dfdsfsdfsd
+        //的负担复旦
 
         try {
             URL httpURL=new URL(url);
